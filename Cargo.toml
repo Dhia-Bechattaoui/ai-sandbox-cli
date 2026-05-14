@@ -1,6 +1,6 @@
 [package]
 name = "ai-sandbox-cli"
-version = "0.0.3"
+version = "0.0.4"
 edition = "2021"
 description = "A high-performance CLI utility for secure, deterministic execution of untrusted AI-generated code snippets."
 authors = ["Dhia Bechattaoui"]
@@ -13,7 +13,8 @@ exclude = [
     ".gitignore",
     ".DS_Store",
     ".agents/*",
-    "plan.md"
+    "plan.md",
+    "ai-sandbox-cli.rb"
 ]
 
 [lib]
