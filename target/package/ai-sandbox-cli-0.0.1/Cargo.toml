@@ -32,7 +32,7 @@ license = "MIT"
 repository = "https://github.com/dhia-bechattaoui/ai-sandbox-cli"
 
 [lib]
-name = "ai_sandbox_cli"
+name = "ai_sandbox"
 path = "src/lib.rs"
 
 [[bin]]
